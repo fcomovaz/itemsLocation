@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "location": "cuarto mamá",
+      "folder": "carpeta azul / cajón 2",
+      "objects": [
+        "acta matrimonio",
+        "papeles del seguro",
+        "acta nacimiento Dulce"
+      ]
+    },
+    {
+      "location": "sala",
+      "folder": "archivero negro / cajón 1",
+      "objects": [
+        "acta defunción",
+        "pasaportes",
+        "facturas"
+      ]
+    },
+    {
+      "location": "oficina",
+      "folder": "carpeta café",
+      "objects": [
+        "recibos luz",
+        "documentos de la casa",
+        "garantías"
+      ]
+    },
+    {
+      "location": "cocina",
+      "folder": "repisa alta / caja blanca",
+      "objects": [
+        "manual licuadora",
+        "tickets",
+        "recetas"
+      ]
+    }
+  ]
+}
